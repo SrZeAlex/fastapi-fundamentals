@@ -2,7 +2,6 @@
 Exercise 1: FastAPI Fundamentals Lab
 
 **Skills:** FastAPI basics, routing, Pydantic models, automatic documentation  
-**Difficulty:** Beginner to Intermediate
 
 ## Learning Objectives
 - Set up a FastAPI development environment
